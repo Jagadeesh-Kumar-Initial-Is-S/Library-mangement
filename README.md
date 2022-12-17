@@ -6,7 +6,7 @@ https://legendary-puffpuff-860d9f.netlify.app/
 
 # Screenshot
 
-![alt tag](https://github.com/Jagadeesh-Kumar-Initial-Is-S/Library-mangement/Library.png "Screenshot")
+![alt tag](Library.png "Screenshot")
 
 # Task
 
