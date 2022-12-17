@@ -1,3 +1,9 @@
+# Task
+
+Task - Implement CRUD operation with different UI of admin dashboard for Library mangement and use formik for all form validations 
+
+# Brief
+
 Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email address which is jagadeesh_2k17@proton.me, you may contribute some money to my Indian Unified Payment Interface (UPI) which is jagadeesh-kumar@ybl .
 
 # Front - end Source code link
@@ -12,9 +18,6 @@ https://legendary-puffpuff-860d9f.netlify.app/
 
 ![alt tag](Library.png "Screenshot")
 
-# Task
-
-Task - Implement CRUD operation with different UI of admin dashboard for Library mangement and use formik for all form validations 
 
 <hr/>
 
