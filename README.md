@@ -2,10 +2,13 @@ Submitted and coded by Jagadeesh Kumar . S, you may send mail to my email addres
 
 https://github.com/Jagadeesh-Kumar-Initial-Is-S/Library-mangement
 
+https://legendary-puffpuff-860d9f.netlify.app/
 
+# Screenshot
 
+![alt tag](https://github.com/Jagadeesh-Kumar-Initial-Is-S/Library-mangement/Library.png "Screenshot")
 
-#Task
+# Task
 
 Task - Implement CRUD operation with different UI of admin dashboard for Library mangement and use formik for all form validations 
 
